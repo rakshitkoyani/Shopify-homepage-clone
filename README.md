@@ -4,7 +4,14 @@ This is Shopify home page clone made using html5 and tailwind css.
 
 ## Preview of different screen sizes
 
-![output](./Shopify.webm)
+1. Desktop size
+   ![output](./ss/desktop.png)
+
+2. Tablet size
+   ![output](./ss/tablet.png)
+
+3. mobile size
+   ![output](./ss/mobile.png)
 
 ## Author
 
